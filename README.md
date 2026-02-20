@@ -20,7 +20,7 @@
 - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=YouriDeKeersmaecker&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
@@ -89,15 +89,15 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=YouriDeKeersmaecker&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YouriDeKeersmaecker&theme=dark&hide_border=false" /> 
 </td>
 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YouriDeKeersmaecker&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 </tr>
@@ -108,7 +108,7 @@
 
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElioChiu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=YouriDeKeersmaecker&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
@@ -133,5 +133,3 @@
 -----------
 
 Credit: [ElioChiu](https://github.com/ElioChiu)
-
-Last Edited on: 10/7/2023
