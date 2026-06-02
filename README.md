@@ -12,10 +12,7 @@
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
+## About me
 - :school: I am a `final-year` Bachelor's student in Applied Informatics at [Hogent](https://www.hogent.be)
 - :technologist: **Currently working on** `Data Science thesis` and internship at [Enprove](https://www.enprove.be)
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=YouriDeKeersmaecker&amp;color=EA4335&amp;style=flat-square)](mailto:youri.p.dekeersmaecker@gmail.com)
