@@ -13,8 +13,8 @@
 <!--About Me-->
 
 ## About me
-- :school: I am a `final-year` Bachelor's student in Applied Informatics at [Hogent](https://www.hogent.be)
-- :technologist: **Currently working on** `Data Science thesis` and internship at [Enprove](https://www.enprove.be)
+- :school: I recently graduated with a Bachelor's degree in Applied Informatics from [HOGENT](https://www.hogent.be)
+- :technologist: I completed my `Data Science thesis` and internship at [Enprove](https://www.enprove.be)
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=YouriDeKeersmaecker&amp;color=EA4335&amp;style=flat-square)](mailto:youri.p.dekeersmaecker@gmail.com)
 - :books: I speak English, French, and Dutch natively, and I am currently learning Spanish.
 
